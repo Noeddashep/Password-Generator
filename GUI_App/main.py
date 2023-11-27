@@ -12,7 +12,7 @@ window.rowconfigure([0, 1, 2, 3, 4, 5, 6, 7, 8, 9], minsize=50, weight=1)
 
 # logo
 def logo():
-    logo_img = Image.open("images.png")
+    logo_img = Image.open("GUI_App/images/images.png")
     logo_img = ImageTk.PhotoImage(logo_img)
     label = tk.Label(image=logo_img)
     label.image = logo_img
