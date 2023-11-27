@@ -2,11 +2,12 @@
 Password Generator is a Python GUI application developed for educational purposes by a TomorrowDevs student. This tool allows you to generate customized passwords based on the desired length or characters deemed most suitable.
 
 # How does it work?
+To run the program, make sure Python is installed on your system application and clone the repository.
 Make sure you install the necessary dependencies that will make the project work properly. Use the following terminal command:
 ```sh
 pip install -r GUI_APP\requirements.txt
 ```
-To run the program, make sure Python is installed on your system application, clone the repository and launch the application using the command:
+Then launch the application using the command:
 
 ```sh
 python GUI_App\main.py
